@@ -1,0 +1,16 @@
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 1
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 2
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 3
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 4
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 5
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 6
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 7
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 8
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 9
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 10
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 11
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 12
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 13
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 14
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 15
+LoanSoft.exe .\test\ \\rangemarkfs1\mrun\Curves\NSM201204ASSUMP\universe\ hpa_base_new.txt DealInfo.txt libor_20120425.txt unemp.txt mort_new.txt 300 360 All 0 0 TEST3 0 0 0 0 16
